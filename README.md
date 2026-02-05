@@ -1,4 +1,4 @@
-# Hi, I'm Sai 👋
+# Hi, I'm Sai Asritha Koratala 👋
 
 🎓 Master’s Student in the USA  
 💻 Aspiring Software Engineer | AI & Web Development  
@@ -17,18 +17,20 @@ Currently focused on:
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** Python, JavaScript
-- **Web:** HTML, CSS
+- **Languages:** Python, JavaScript, Java
+- **Web:** HTML, CSS, Node, React
 - **Tools:** Git, GitHub, VS Code
-- **Currently Learning:** Machine Learning
+- **Currently Learning:** Machine Learning, Artificial Intelligence
 
 ---
 
 ## 📌 Projects
+- Portfolio Website (in progress)
 - AI Interview Coach (in progress)
 - Resume Screener using Python
-- Portfolio Website (coming soon)
-
+- Job Recommendation System
+- Homefoods Website
+  
 ---
 
 ## 🌐 Connect With Me
