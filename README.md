@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Sai 👋
 
-<!--
-**saiasrithakoratala/saiasrithakoratala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s Student in the USA  
+💻 Aspiring Software Engineer | AI & Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+I’m a graduate student with a strong interest in building practical, real-world applications.
+I enjoy working on Python-based projects, AI tools, and clean web interfaces.
+
+Currently focused on:
+- Software Engineering fundamentals
+- AI & ML projects
+- Building a strong developer portfolio
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** Python, JavaScript
+- **Web:** HTML, CSS
+- **Tools:** Git, GitHub, VS Code
+- **Currently Learning:** Machine Learning
+
+---
+
+## 📌 Projects
+- AI Interview Coach (in progress)
+- Resume Screener using Python
+- Portfolio Website (coming soon)
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/saiasrithakoratala
+- 💻 GitHub: https://github.com/saiasrithakoratala
